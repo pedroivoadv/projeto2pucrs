@@ -1,0 +1,16 @@
+{
+  "name": "foodtime-devops",
+  "version": "1.0.0",
+  "description": "Este projeto simula a implementação prática de um pipeline DevOps completo para uma aplicação fictícia de delivery. O foco é CI/CD, IaC, monitoramento e segurança.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Teste OK\"",
+    "start": "node src/server.js",
+    "build": "npm install && echo \"Build completed\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
