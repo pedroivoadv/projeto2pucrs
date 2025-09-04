@@ -52,13 +52,15 @@ typings/
 .env
 .env.test
 
-# =========================
 # Terraform
-# =========================
-# State files
 *.tfstate
-*.tfstate.backup
+*.tfstate.*
 .terraform/
+crash.log
+override.tf
+override.tf.json
+*.override.tf
+*.override.tf.json
 terraform.tfvars
 
 # =========================
