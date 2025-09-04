@@ -1,6 +1,6 @@
 # 📋 Requisitos Técnicos - Projeto FoodTime DevOps
 
-Este documento descreve os requisitos técnicos para a implementação do pipeline DevOps da aplicação fictícia *FoodTime*.
+Este documento descreve os requisitos técnicos para a implementação do pipeline DevOps da aplicação fictícia *Calculadora*.
 
 ---
 
